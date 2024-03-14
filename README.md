@@ -1,8 +1,7 @@
 # passcrypt
-***
 Passcrypt is a password manager desktop application that encrypts passwords with Data Encryption Standard(DES) and stores them.
 
-![Passcrypt] (https://drive.google.com/file/d/1MAERVEUwbpAJccTLSl_qYEynAMwCFeUP/view?usp=drive_link)
+![Passcrypt](https://drive.google.com/file/d/1MAERVEUwbpAJccTLSl_qYEynAMwCFeUP/view?usp=drive_link)
 
 ## Techstack
 Passcrypt is made using NetBeans IDE and Core Java.
