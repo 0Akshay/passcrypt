@@ -3,7 +3,7 @@ Passcrypt is a password manager desktop application that encrypts passwords with
 
 ![Passcrypt](https://github.com/0Akshay/passcrypt/blob/main/passcrypt.png?raw=true)
 
-## Techstack
+## Tech Stack
 Passcrypt is made using NetBeans IDE and Core Java.
 
 ## Usecase
