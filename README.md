@@ -18,11 +18,11 @@ For securely saving multiple passwords using a single or multiple master keys.
 5) The the password is then decrypted and plaintext password becomes visible.
 
 ## Under the hood
-*Passcrypt uses the Data Encryption Standard(DES) algorithm present in 'DesProgram.java' to generate a 56 bit encryption key using the provided password.
-*The encyption key is used to encrypt the password of the given account which is then stored as an entry in a csv file.
-*The entries are alloted a sequential unique IDs which are used to uniquely identify each account-password.
-*IDs, Account Name and encrypted passwords are written to an external file './data.csv'.
-*Metadata about the passwords is written to './metadata.txt';
+* Passcrypt uses the Data Encryption Standard(DES) algorithm present in 'DesProgram.java' to generate a 56 bit encryption key using the provided password.
+* The encyption key is used to encrypt the password of the given account which is then stored as an entry in a csv file.
+* The entries are alloted a sequential unique IDs which are used to uniquely identify each account-password.
+* IDs, Account Name and encrypted passwords are written to an external file './data.csv'.
+* Metadata about the passwords is written to './metadata.txt';
 
 ## Sources
-1. [Data Encryption Standard (DES) Code in Java] (https://medium.com/@amit28amical/data-encryption-standard-des-code-in-java-4a45ad692bae)
+1. [Data Encryption Standard (DES) Code in Java](https://medium.com/@amit28amical/data-encryption-standard-des-code-in-java-4a45ad692bae)
